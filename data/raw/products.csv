@@ -1,0 +1,8 @@
+product_id,product_name,category,description,unit_price,stock_quantity
+2001,Laptop Pro 14,Electronics,Premium laptop,85000,100
+2002,Wireless Mouse,Electronics,Bluetooth mouse,1800,500
+2003,Mechanical Keyboard,Electronics,RGB mechanical keyboard,4500,250
+2004,Running Shoes,Fashion,Sports running shoes,3200,300
+2005,Backpack,Fashion,Laptop backpack,2200,400
+2006,Smart Watch,Electronics,Fitness smartwatch,6500,180
+2007,Coffee Maker,Home,Automatic coffee maker,5500,120

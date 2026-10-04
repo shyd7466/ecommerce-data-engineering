@@ -1,0 +1,10 @@
+customer_id,customer_name,email,city,country,created_date,updated_date
+1001,Aarav Sharma,aarav.sharma@gmail.com,Delhi,India,2026-01-05,2026-01-05
+1002,Priya Verma,priya.verma@gmail.com,Mumbai,India,2026-01-06,2026-01-06
+1003,Rahul Singh,rahul.singh@gmail.com,Bengaluru,India,2026-01-07,2026-02-15
+1004,Neha Gupta,neha.gupta@gmail.com,Pune,India,2026-01-08,2026-01-08
+1005,Vikram Yadav,vikram.yadav@gmail.com,Kanpur,India,2026-01-10,2026-03-02
+1005,Vikram Yadav,vikram.yadav@gmail.com,Kanpur,India,2026-01-10,2026-03-02
+1006,Ananya Rao,,Hyderabad,India,2026-01-11,2026-01-11
+1007,Rohan Mehta,rohan.mehta@gmail,Chennai,India,2026-01-12,2026-01-12
+1008,Sneha Kapoor,sneha.kapoor@gmail.com,Jaipur,India,2026-01-15,2026-01-15
